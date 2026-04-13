@@ -1,3 +1,3 @@
 # apna-collage-
-This is my first Repository
-author -  uttam shourya
+This is my first Repository.
+Author -  uttam shourya
